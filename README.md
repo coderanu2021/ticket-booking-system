@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 1. **Copy the Content**:
    - The content of the `README.md` file is provided within the ````` tag in the response. You can manually copy the text 
@@ -165,3 +166,7 @@ This is an interview assignment project and not open for contributions. However,
 
 This project is unlicensed and intended for evaluation purposes only.
 ```
+=======
+# ticket-booking-system
+The Ticket Booking System is a web-based platform that allows users to browse and book tickets for events such as movies, concerts, and travel. It provides an easy-to-use interface for users to select tickets and receive instant booking confirmations.
+>>>>>>> 84b691f558986b6e86090a9d3e85aadfb2c6131d
