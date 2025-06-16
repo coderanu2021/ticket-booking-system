@@ -127,3 +127,7 @@ This is an interview assignment project and not open for contributions. However,
 ## License
 
 This project is unlicensed and intended for evaluation purposes only.
+
+## Project Status
+
+This project has been completed and is no longer actively maintained.
